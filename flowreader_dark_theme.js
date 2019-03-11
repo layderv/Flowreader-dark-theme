@@ -31,6 +31,7 @@
         {name: "#body.compact .column.primary .item:not(.focused) .heading .title a, #body.compact .column.single .item:not(.focused) .heading .title a", style: "color", color: "#7e8c9a"},
         {name: ".item.twitter .heading .username", style: "color", color: "#0077ad"},
         {name: ".suggestions .topic .channels .channels-box .addOrRemove", style: "color", color: "#999"},
+        {name: ".suggestions .cover h2", style: "color", color: "#999"},
     ];
 
     function activate_colors() {
